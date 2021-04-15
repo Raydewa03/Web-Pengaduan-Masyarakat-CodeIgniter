@@ -1,4 +1,4 @@
-# Pengaduan Masyarakat
+# Web Pengaduan Masyarakat CodeIgniter
 
 Admin\
 Username : rey\
@@ -13,8 +13,8 @@ Username : masyarakat\
 Pass : 123456
 
 Made with
-# CodeIgniter V3
-# Template SB Admin 2
+* CodeIgniter V3
+* Template SB Admin 2
 
 
 
