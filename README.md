@@ -16,5 +16,5 @@ Made with
 * CodeIgniter V3
 * Template SB Admin 2
 
-
+![Resume cv](/ngadu.png)
 
